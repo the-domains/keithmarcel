@@ -1,7 +1,7 @@
 name: Keith Marcel
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2709924343507737
+layout_spectrum: 0.23153
+typography_spectrum: 0.36616
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8284456403926015
-  lightness: 0.6875
-  saturation: 0.6875
+  brandStrength: 0
+  lightness: 0.875
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
